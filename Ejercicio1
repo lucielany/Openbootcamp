@@ -1,1 +1,25 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    <link rel="stylesheet" href="./ejercicio1.css">
+</head>
+<body>
+
+    <p>Este es mi primer comentario de dos líneas</p>
+    <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+
+    <br>
+
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=ldMn-1iQzKE" target="_blank">Spider-Man: No Way Home</a></li>
+        <li><a href="https://www.youtube.com/watch?v=mqo8KQtM--c" target="_blank">Avatar 2: El Sentido Del Agua (2022) Tráiler Oficial Español</a></li>
+        <li><a href="https://www.youtube.com/watch?v=NOpzldCE7GY" target="_blank">Trailer Doctor Strange 2</a></li>
+    </ul>
+    
+</body>
+</html>
