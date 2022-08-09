@@ -1,0 +1,30 @@
+/*Fondos*/
+.fondo {
+    background-image:url("https://www.designyourway.net/blog/wp-content/uploads/2018/06/Seamless-Polygon-Background.jpg");
+    background-position: left bottom;
+}
+
+.fondo-interno {
+    background-image:url("./img/fondo.jpg");
+    background-position: left bottom;
+}
+
+.ancho {
+    background-color: #BCE784;
+    width: 100px;
+}
+
+.alto {
+    background-color: aquamarine;
+    height: 200px;
+}
+
+.tarjeta {
+    border-style: solid;
+    border-color: rgb(150,150,150);
+    border-width: 1px;
+    /*border-top:none;*/
+    /*padding: 10px;*/
+    padding: 10px 20px;
+    margin: 10px 20px;
+}
