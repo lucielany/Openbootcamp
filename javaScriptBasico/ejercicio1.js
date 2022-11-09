@@ -1,4 +1,4 @@
-const lista = ["Luciela", 34, true,new Date(1986, 09, 31),
+const lista = ["Luciela", 36, true,new Date(1986, 09, 31),
     { 
         titulo: "El progreso del peregrino",
         autor: "John Bunyan",
