@@ -1,7 +1,7 @@
 const persona = {
   nombre: "Luciela",
   edad: 36,
-  desarrollado: true,
+  desarrollador: true,
   fechaNacimiento: new Date(1986, 9, 31),
   libroFavorito: {
     titulo: "El progreso del peregrino",
