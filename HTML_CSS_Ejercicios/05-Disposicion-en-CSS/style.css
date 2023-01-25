@@ -1,0 +1,10 @@
+
+.galeria{
+  display:flex;
+  flex-wrap: wrap;  
+  gap: 10px; /*Se pone en el contenedor*/
+}
+
+.imagen-galeria {
+  width: 300px;
+}
