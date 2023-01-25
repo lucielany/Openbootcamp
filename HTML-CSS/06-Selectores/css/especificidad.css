@@ -1,0 +1,19 @@
+/*Especificidad (0, 0, 0)
+*!important > style > id > classe > etiqueta
+*
+*/
+h1 {
+  color: blue;
+}
+
+.h1-clase {
+  color: green;
+}
+
+#h1-id{
+  color:orange;
+}
+
+p {
+  color: red;
+}

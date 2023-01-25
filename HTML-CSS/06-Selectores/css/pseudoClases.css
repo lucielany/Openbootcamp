@@ -1,0 +1,42 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+.hover{
+  width: 300px;
+  height: 100px;
+  background-color: burlywood;
+
+}
+
+.hover:hover{ /*cuando el ratón pasa por encima*/
+ background-color: rgb(109, 68, 19);
+  
+
+}
+
+.listado {
+  padding: 15px;
+  background-color: aquamarine;
+}
+
+.listado p:first-child {
+  color: white;
+}
+
+a:link{ /*Color del link*/
+  color: deeppink;
+}
+
+a:visited { /*Color del link ya visitado*/
+  color: rgb(39, 244, 124);
+}
+
+a:hover { /*Color del link cuando pasa el raton*/
+  color: rgb(209, 150, 74);
+}
+
+a:active { /*Color del link cuando lo tengo pulsado*/
+  color: rgb(110, 23, 210);
+}
