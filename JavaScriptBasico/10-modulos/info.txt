@@ -1,0 +1,20 @@
+//Crear un package json
+1) acceder a la carpeta donde quiero acceder >>"cd nombre_carpeta"
+2)ejecutar>> "npm init -y"
+
+
+//Para exportar funciones
+Usamos "export function nombre_funcion"
+
+//Para importar funciones
+1) import {nombre_funcion, otra_funcion } from './nombre_archivo.js'
+
+//Importar todas las funciones 
+>> import * as nombre from './nombre_archivo.js'
+
+//Importar por nombre 
+>>import getAutor from './nombre_archivo.js'
+>>getAutor()
+
+//exportar por nombre
+>> export default getAutor      // en el archivo que quiero exportar - solo 1 por archivo
